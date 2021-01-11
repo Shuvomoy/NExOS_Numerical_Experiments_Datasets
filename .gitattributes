@@ -1,0 +1,4 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.jld2 filter=lfs diff=lfs merge=lfs -text
+*.jl filter=lfs diff=lfs merge=lfs -text
